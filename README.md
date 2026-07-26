@@ -1,16 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sakshi%20Bansal&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Still%20learning%2C%20still%20shipping" alt="Typing introduction" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=Sakshibansal027">
     <img src="https://komarev.com/ghpvc/?username=Sakshibansal027&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sakshibansal027's profile views" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack web applications using the MERN stack
 - Open-source web development projects
 - System design and scalable backend architecture
 - Still learning, still shipping
+
+
+## 🧠 My Focus Areas
+- Full Stack Web Development
+- Backend Architecture & System Design
+- Open Source Contribution
 
 
 ## 📊 GitHub Stats & Trophies
@@ -22,6 +34,9 @@
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Sakshibansal027&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sakshi Bansal's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshibansal027&theme=radical&radius=10" alt="Sakshibansal027's Activity Graph" />
 </p>
 
 
@@ -99,4 +114,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
