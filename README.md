@@ -1,69 +1,102 @@
-# Hi 👋, I'm Sakshi Bansal  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sakshi%20Bansal&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-🎓 **Information Technology Student**  
-💻 **Full Stack Developer**  
-🚀 Passionate about building modern, scalable web applications  
-🌱 Always learning new technologies  
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Sakshibansal027">
+    <img src="https://komarev.com/ghpvc/?username=Sakshibansal027&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sakshibansal027's profile views" />
+  </a>
+</p>
 
----
+## 📌 About Me
+- Full-stack web applications using the MERN stack
+- Open-source web development projects
+- System design and scalable backend architecture
+- Still learning, still shipping
 
-## 👩‍💻 About Me
-- 🎓 Pursuing **B.Tech in Information Technology**  
-- 💡 Interested in **Web Development & Software Engineering**  
-- 🛠️ Love working on both **Frontend & Backend**  
-- ✨ Believe in continuous learning and clean code  
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Sakshibansal027">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakshibansal027&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Sakshibansal027's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Sakshibansal027&theme=radical&hide_border=true&cache_seconds=86400" alt="Sakshibansal027's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Sakshibansal027&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sakshi Bansal's GitHub Trophies" />
+</p>
 
-## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+## 🛠️ Languages & Tools
 
----
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+</p>
 
----
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
----
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code)
+</p>
 
----
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
 
-## 🚀 What I’m Currently Doing
-- 🔭 Working on **Full Stack Web Projects**
-- 🌱 Improving **Backend & Database Skills**
-- 🧠 Practicing **DSA & Problem Solving**
+</p>
 
----
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
 
-## 📊 GitHub Stats
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshibansal027&show_icons=true&theme=radical)
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshibansal027&layout=compact&theme=radical)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
----
+</p>
 
-## 🔗 Connect With Me
-- 🌐 GitHub: https://github.com/Sakshibansal027  
-- 💼 LinkedIn: https://www.linkedin.com/in/sakshi-bansal-81b179326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📧 Email: sakshibansal827@gmail.com 
----
+<p align="center">
+  <a href="https://github.com/Sakshibansal027">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakshibansal027&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-✨ *“Code. Learn. Build. Repeat.”*
+![Top language](https://stats.pphat.top/languages?username=Sakshibansal027)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-bansal-81b179326/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Sakshi Bansal's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sakshibansal827@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Sakshi Bansal's Email"/></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
